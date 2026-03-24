@@ -10,3 +10,15 @@ if number % 2 == 0:
   print("Even number")
 else:
   print("odd number)
+
+# Grade system 
+marks = int(input("enter your marks : ")
+if marks >= 90 :
+   print("grade : A")
+Elif marks >= 75 :
+    Print(" grade : B")
+else :
+    print("fail")
+
+
+
