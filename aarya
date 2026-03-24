@@ -2,3 +2,11 @@ name = input("Enter your name : ")
 goal = input("What do you want to learn this month? ")
 print("\nwelcome,",name)
 print("your goal is:",goal)
+
+
+# Day 2 :Even or odd checker 
+number = int(input("Enter a number : ")
+if number % 2 == 0:
+  print("Even number")
+else:
+  print("odd number)
