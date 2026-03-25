@@ -28,5 +28,14 @@ if username == "admin" and password == "1234":
 else:
     print("invalid credentials")
 
+#Number Analayzer 
+num = int(input("Enter a number : ")
+if num > 0:
+print("positive number")
+elif num < 0:
+print("negative number")
+else :
+print("zero") 
+
 
 
