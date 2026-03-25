@@ -37,5 +37,15 @@ print("negative number")
 else :
 print("zero") 
 
+# Guess the number game 
+secret = 7
+while True :
+guess = int(input("guess the number (1-10): "))
+if guess == secret:
+   print("Correct")
+   break
+else:
+   print("Try again")
+
 
 
