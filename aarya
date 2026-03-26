@@ -61,3 +61,13 @@ if sum == num:
     print("Armstrong number")
 else:
     print("Not an armstrong number")
+
+#Find subject topper 
+subjects = ["Maths","Science","English","CS"]
+Highest = marks[0]
+top_subjects = subjects[0]
+for i in range(3):
+if marks[i] > highest:
+   highest = marks[i]
+   top_subject = subject[i]
+print("Top subject: ",top_subject)
