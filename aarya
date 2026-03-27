@@ -81,3 +81,11 @@ participants = ["Aarya","Ravi","Aarya","Neha","Ravi"]
 unique_participants = set(participants)
 print("Unique participants: ",unique_participants)
 print ("Total unique :",len(unique_participants))
+
+# Day 6
+a = [1,2,3]
+b = [3,4,5]
+if set(a) == set(b):
+print("same elements")
+else:
+print("Different")
