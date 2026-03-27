@@ -75,3 +75,9 @@ print("Top subject: ",top_subject)
 def converter(usd_value):
 inr_value = usd_value*83
 print(usd_value,"USD = ",inr_value,"INR= ")
+
+#Day 5
+participants = ["Aarya","Ravi","Aarya","Neha","Ravi"]
+unique_participants = set(participants)
+print("Unique participants: ",unique_participants)
+print ("Total unique :",len(unique_participants))
