@@ -89,3 +89,8 @@ if set(a) == set(b):
 print("same elements")
 else:
 print("Different")
+
+def calculator(a,b,op):
+if op == "+"
+return a + b
+elif op  == "-"
