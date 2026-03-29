@@ -106,3 +106,20 @@ def calculator(a,b,op):
 if op == "+"
 return a + b
 elif op  == "-"
+
+
+# WEB DEVLOPMENT 
+<!DOCTYPE html>
+<html>
+<head>
+<title> My first page</title>
+</head>
+<body>
+<h1> Hello world</h1>
+<p> This is my first web page</p>
+< input placeholder = "Type something">
+<button> Click </button>
+</body>
+</html>
+
+
