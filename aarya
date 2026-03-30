@@ -119,6 +119,13 @@ elif op  == "-"
 <p> This is my first web page</p>
 < input placeholder = "Type something">
 <button> Click </button>
+<center>
+<h2>Hello</h2>
+<input type = 'text' placeholder = "Your name ">
+<br><br>
+<button> OK </button>
+<p>Welcome!</p>
+</center>
 </body>
 </html>
 
