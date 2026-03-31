@@ -125,6 +125,15 @@ elif op  == "-"
 <br><br>
 <button> OK </button>
 <p>Welcome!</p>
+<tr border = "1">
+<tr>
+<th>name</th>
+<th>marks</th>
+</tr>
+<tr>
+<td>Aarya</td>
+<td>95</td>
+</tr>
 </center>
 </body>
 </html>
